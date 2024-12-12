@@ -1,8 +1,9 @@
-import './App.css'
+import Messages from './features/container/Messages.tsx';
 
 const App = () => {
     return (
         <>
+          <Messages/>
         </>
     );
 }
